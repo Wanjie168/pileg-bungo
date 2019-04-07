@@ -1,0 +1,7 @@
+.upload-btn-wrapper {
+  position: relative;
+}
+
+.upload-btn-wrapper input[type=file] {
+  display:none !important;
+}
